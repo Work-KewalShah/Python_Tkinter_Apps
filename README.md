@@ -54,7 +54,7 @@ This handy tool is designed to help you create strong and secure passwords tailo
 
 This user-friendly password generator ensures that you have strong and unique passwords at your fingertips. Protect your digital life with ease and confidence.
 
-**Find the [source code here](link_to_source_code) and the [executable application here](link_to_executable).**
+**Find the [source code here](https://github.com/Work-KewalShah/Python_Tkinter_Apps/blob/main/Password_Generator/Password_Generator.py) and the [executable application here](https://github.com/Work-KewalShah/Python_Tkinter_Apps/blob/main/Password_Generator/Password_Generator.exe).**
 
 <p align="center">
   <img src = "https://i.imgur.com/p4T8p5Z.png" width=350>
@@ -74,7 +74,7 @@ This simple yet powerful tool allows you to manage your tasks effortlessly.
 
 This user-friendly application provides a straightforward way to keep track of your tasks and stay productive. Whether it's for work, study, or personal life, this To-Do List app has you covered.
 
-**Find the [source code here](link_to_source_code) and the [executable application here](link_to_executable).**
+**Find the [source code here](https://github.com/Work-KewalShah/Python_Tkinter_Apps/blob/main/To-Do_List/To-Do_List.py) and the [executable application here](https://github.com/Work-KewalShah/Python_Tkinter_Apps/blob/main/To-Do_List/To-Do_List.exe).**
 
 <p align="center">
   <img src = "https://i.imgur.com/lgGxaeX.png" width=300>
@@ -92,7 +92,7 @@ This versatile calculator is designed to help you perform a wide range of mathem
 
 This user-friendly calculator is suitable for various mathematical tasks, from everyday calculations to more advanced computations. It's a handy tool for students, professionals, and anyone in need of quick and accurate math solutions.
 
-**Find the [source code here](link_to_source_code) and the [executable application here](link_to_executable).**
+**Find the [source code here](https://github.com/Work-KewalShah/Python_Tkinter_Apps/blob/main/Calculator/Calculator.py) and the [executable application here](https://github.com/Work-KewalShah/Python_Tkinter_Apps/blob/main/Calculator/Calculator.exe).**
 
 <p align="center">
   <img src = "https://i.imgur.com/XxylddM.png" width=250>
