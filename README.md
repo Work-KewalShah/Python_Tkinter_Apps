@@ -57,7 +57,7 @@ This user-friendly password generator ensures that you have strong and unique pa
 **Find the [source code here](link_to_source_code) and the [executable application here](link_to_executable).**
 
 <p align="center">
-  <img src = "https://i.imgur.com/p4T8p5Z.png" width=700>
+  <img src = "https://i.imgur.com/p4T8p5Z.png" width=350>
 </p>
 
 ## To-Do List
@@ -77,7 +77,7 @@ This user-friendly application provides a straightforward way to keep track of y
 **Find the [source code here](link_to_source_code) and the [executable application here](link_to_executable).**
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=100>
+  <img src = "https://i.imgur.com/lgGxaeX.png" width=300>
 </p>
 
 ## Calculator
@@ -95,7 +95,7 @@ This user-friendly calculator is suitable for various mathematical tasks, from e
 **Find the [source code here](link_to_source_code) and the [executable application here](link_to_executable).**
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  <img src = "https://i.imgur.com/XxylddM.png" width=250>
 </p>
 
 ## Pre-Requisites
