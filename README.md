@@ -36,10 +36,10 @@ In this repository, you'll find a collection of GUI applications I've developed 
 
 Feel free to explore the applications below, contribute to their development, or use them in your projects. Your feedback and contributions are always welcome!
 
-**All applications available for Windows PC**
+### All applications available for Windows PC
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif" width=700>
 </p>
 
 ## Password Generator
