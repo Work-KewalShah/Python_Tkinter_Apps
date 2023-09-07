@@ -112,6 +112,7 @@ pip install tk
 ### Running the Executable
 
 If you prefer to run the pre-built executable file, you're all set! There are no additional requirements to be met. Simply run the executable file, and the application will work seamlessly without any dependencies. 
+<br>
 
 ## Contact Me
 
