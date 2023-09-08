@@ -39,7 +39,7 @@ Feel free to explore the applications below, contribute to their development, or
 ### All applications available for Windows PC
 
 <p align="center">
-  <img src = "https://i.imgur.com/VFXEaz1.gif" width=700>
+  <img src = "https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif" width=700>
 </p>
 
 ## Password Generator
