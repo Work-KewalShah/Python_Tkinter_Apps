@@ -60,7 +60,6 @@ This user-friendly password generator ensures that you have strong and unique pa
   <img src = "https://i.imgur.com/p4T8p5Z.png" width=350>
 </p>
 
-----
 
 ## To-Do List
 
@@ -82,7 +81,6 @@ This user-friendly application provides a straightforward way to keep track of y
   <img src = "https://i.imgur.com/lgGxaeX.png" width=300>
 </p>
 
-----
 
 ## Calculator
 
