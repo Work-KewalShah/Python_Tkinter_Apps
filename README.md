@@ -1,4 +1,4 @@
-<h1 align="center"> Python_Tkinter_Apps </h1><h3 align="center"> Kewal Shah </h3> <br>
+<h1 align="center"> Python Tkinter Apps </h1><h3 align="center"> Kewal Shah </h3> <br>
 <p align="center">
   <a href="">
     <img alt="Python and Tkinter Logo" title="Python_Tkinter_Apps" src="https://i.imgur.com/LsPqga6.png" width="300">
