@@ -24,7 +24,7 @@
 
 ## Introduction
 
-In this repository, you'll find a collection of GUI applications I've developed using the Tkinter library and Python programming. These applications are designed to provide a seamless user experience, with robust error control mechanisms in place.
+In this repository, you'll find a collection of GUI applications I've developed using the Tkinter library and Python programming while doing internship at CodSoft company. These applications are designed to provide a seamless user experience, with robust error control mechanisms in place.
 
 ### What You'll Find Here:
 
